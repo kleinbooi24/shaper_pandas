@@ -28,32 +28,34 @@
 - Are high income earners spending more on Loan repayment vs low income earners?
 - Which category has the highest purchase value per month?
 
+## PROBLEMS
+
 - **PROBLEM_1:** Compare the average money spend (PURCHASE_VALUE) between male and female (USER_GENDER) per MPESA Payment system usage (IS_PURCHASE_PAID_VIA_MPESA_SEND_MONEY)
 
 - **PROBLEM_2:** Count the number of transections from MPESA per merchant (MERCHANT_NAME)
 
 - **PROBLEM_3:** Compare the user household (USER_HOUSEHOLD) spending habit (PURCHASE_VALUE) on rent and mortgage (MERCHANT_CATEGORIZED_AS - filter rent and mortgage)
 
-- **PROBLEM 4:** Compare the spending habit of youth (USER_AGE - filter 18 to 35) for each category (MERCHANT_CATEGORIZED_AS)
+- **PROBLEM_4:** Compare the spending habit of youth (USER_AGE - filter 18 to 35) for each category (MERCHANT_CATEGORIZED_AS)
 
-- **PROBLEM 5:** Compare the spending habit (PURCHASE_VALUE) of males and females (USER_GENDER)
+- **PROBLEM_5:** Compare the spending habit (PURCHASE_VALUE) of males and females (USER_GENDER)
 
-- **PROBLEM 6:** Compare the income (USER_INCOME) of males and females (USER_GENDER)
+- **PROBLEM_6:** Compare the income (USER_INCOME) of males and females (USER_GENDER)
 
-- **PROBLEM 7:** Compare the spending (PURCHASE_VALUE) on mortgage (MERCHANT_CATEGORIZED_AS - filter rent and mortgage) across the years (YEAR)
+- **PROBLEM_7:** Compare the spending (PURCHASE_VALUE) on mortgage (MERCHANT_CATEGORIZED_AS - filter rent and mortgage) across the years (YEAR)
 
-- **PROBLEM 8:** Compare the spending habit (PURCHASE_VALUE) across age groups (USER_AGE) on Data & Wifi (MERCHANT_CATEGORIZED_AS - filter Data&wifi)
+- **PROBLEM_8:** Compare the spending habit (PURCHASE_VALUE) across age groups (USER_AGE) on Data & Wifi (MERCHANT_CATEGORIZED_AS - filter Data&wifi)
 
-- **PROBLEM 9:** Compare the Income levels (USER_INCOME) across the years (YEAR)
+- **PROBLEM_9:** Compare the Income levels (USER_INCOME) across the years (YEAR)
 
-- **PROBLEM 10:** Compare the spending habit (PURCHASE_VALUE) across age groups (USER_AGE)
+- **PROBLEM_10:** Compare the spending habit (PURCHASE_VALUE) across age groups (USER_AGE)
 
-- **PROBLEM 11:** Compare the MPESA usage (IS_PURCHASE_PAID_VIA_MPESA_SEND_MONEY) across different age groups (USER_AGE)
+- **PROBLEM_11:** Compare the MPESA usage (IS_PURCHASE_PAID_VIA_MPESA_SEND_MONEY) across different age groups (USER_AGE)
 
-- **PROBLEM 12:** Compare the spending (PURCHASE_VALUE) between male and female (USER_GENDER) on shopping (MERCHANT_CATEGORIZED_AS - filter shopping)
+- **PROBLEM_12:** Compare the spending (PURCHASE_VALUE) between male and female (USER_GENDER) on shopping (MERCHANT_CATEGORIZED_AS - filter shopping)
 
-- **PROBLEM 13:** Compare the spending (PURCHASE_VALUE) on transport and fuel (MERCHANT_CATEGORIZED_AS - filter transport and fuel) across the years (YEAR)
+- **PROBLEM_13:** Compare the spending (PURCHASE_VALUE) on transport and fuel (MERCHANT_CATEGORIZED_AS - filter transport and fuel) across the years (YEAR)
 
-- **PROBLEM 14:** Compare the spending habit (PURCHASE_VALUE) between low income and high income earners (USER_INCOME) on loan repayments (MERCHANT_CATEGORIZED_AS - filter loan repayments)
+- **PROBLEM_14:** Compare the spending habit (PURCHASE_VALUE) between low income and high income earners (USER_INCOME) on loan repayments (MERCHANT_CATEGORIZED_AS - filter loan repayments)
 
-- **PROBLEM 15:** Compare the purchase value (PURCHASE_VALUE) across merchants (MERCHANT_CATEGORIZED_AS) per month (MONTH)
+- **PROBLEM_15:** Compare the purchase value (PURCHASE_VALUE) across merchants (MERCHANT_CATEGORIZED_AS) per month (MONTH)
